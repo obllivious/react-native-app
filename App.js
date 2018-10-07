@@ -47,7 +47,7 @@ Colar depois da Tag:
 
 <Login />
 
-<Text style={styles.welcome}>Welcome to Synthetic</Text>
+<Text style={styles.welcome}>Welcome to App1</Text>
 <Text style={styles.instructions}>Develloped in React Native</Text>
 
 const styles = StyleSheet.create({
