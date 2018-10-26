@@ -15,6 +15,7 @@ import Form from '../components/Form';
 import {Actions} from 'react-native-router-flux';
 
 export default class Signup extends Component {
+    
     goBack() {
         Actions.pop();
     }
